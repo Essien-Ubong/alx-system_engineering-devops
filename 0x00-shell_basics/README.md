@@ -1,1 +1,1 @@
-Script for file type
+Script for symbolic link
