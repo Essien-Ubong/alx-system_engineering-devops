@@ -1,1 +1,1 @@
-Script for listing
+Script for file type
