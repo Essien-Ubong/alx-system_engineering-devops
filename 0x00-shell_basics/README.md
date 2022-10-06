@@ -1,1 +1,1 @@
-Script that displays the content of current directory
+Script that changes directory to root
