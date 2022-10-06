@@ -1,1 +1,1 @@
-Script that changes directory to root
+Script that displays long format
