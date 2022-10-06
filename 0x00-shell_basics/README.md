@@ -1,1 +1,1 @@
-script for deleting betty
+script to delete mfd
