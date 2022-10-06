@@ -1,1 +1,1 @@
-Script that displays long format
+Script that displays hidden in long form
