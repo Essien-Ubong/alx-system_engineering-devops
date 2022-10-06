@@ -1,1 +1,1 @@
-Script to display IDs too
+script to create dir into tmp dir
