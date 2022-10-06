@@ -1,1 +1,1 @@
-Script for symbolic link
+copy html script
