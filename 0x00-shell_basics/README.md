@@ -1,1 +1,1 @@
-script all
+script final
