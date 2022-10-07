@@ -1,1 +1,1 @@
-script for upper case
+script for cleaning
