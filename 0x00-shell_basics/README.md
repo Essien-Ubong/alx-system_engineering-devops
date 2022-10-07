@@ -1,1 +1,1 @@
-script tree
+script all
