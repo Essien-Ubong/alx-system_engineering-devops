@@ -1,1 +1,1 @@
-script for whoamI
+script for groups
